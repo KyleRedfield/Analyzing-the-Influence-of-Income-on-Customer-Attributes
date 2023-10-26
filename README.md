@@ -1,4 +1,4 @@
-# ExplorAnalyzing the Influence of Income on Customer Attributes
+# Exploring Analyzing the Influence of Income on Customer Attributes
 
 ## Introduction
 Welcome to the "Analyzing the Influence of Income on Customer Attributes" project. In this analysis, we delve into a dataset containing 2,240 rows and 28 columns, sourced from an online course. Our primary objective is to investigate the relationship between an individual's their income and other values within the dataset. The dataset includes various customer attributes, such as education, marital status, income, and purchasing behavior. Our exploration focuses on understanding how income influences these various attributes, which can provide valuable insights for marketing strategies and customer segmentation.
